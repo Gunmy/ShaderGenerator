@@ -7,3 +7,9 @@ ShaderGenerator is an application that can work as a framework for tile-based ga
 |<img width="400" alt="image" src="https://github.com/Gunmy/ShaderGenerator/assets/99408493/1e4ce3a1-615a-40c7-a554-80db485d5b72">|
 |:--:| 
 |*Figure 2: Pixellated versus mushy image*|
+
+
+|<img width="633" alt="image" src="https://github.com/Gunmy/ShaderGenerator/assets/99408493/2d662486-edab-401a-ab09-cd16c31e49d1">|
+|:--:|
+|*Figure 3: Said shader-renderer used in my game Gemstone Guardians*|
+
